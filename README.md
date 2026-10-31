@@ -1,2 +1,7 @@
 # Programing-fundamental.-
-Name;HABIB ULLAH SCHOOL:SWAT UNIVERSITY OF TACHNALOGY.   Introduce txt. Subject ;computer t
+ SCHOOL:SWAT UNIVERSITY OF TACHNALOGY.
+Text file name:introduction txt
+#Name :HABIB ULLAH
+SAMESTER ;1st
+Department :computer science
+TEACHER NAME:DEAR RASHID ZADA SAB
